@@ -3,6 +3,6 @@
     "name": "skill-resets",
     "author": "KYGAS",
     "description": "Shows pop up message whenever a skill resets.",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/skill-resets/master/"],
-    "supportUrl": "https://github.com/KYGAS/skill-resets/issues"
+    "servers": ["https://raw.githubusercontent.com/X0RPR0/Skill-Resets/master/"],
+    "supportUrl": "https://github.com/X0RPR0/Skill-Resets/issues"
 }
