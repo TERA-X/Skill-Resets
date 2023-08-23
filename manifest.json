@@ -1,17 +1,13 @@
 {
-    "files": {
-        "README.md": "d0751f25b950ec4e8a44055c67bf4060b66e0cebf5adcafec26c7eb249cf5c28",
-        "config.json": {
-            "overwrite": false,
-            "hash": "68a9c3889565b947b61660045593abe4fa6552455821a1e1d0778a4948f56a65"
-        },
-        "index.js": "6f9dbc284a28c042a62b724e79185f91c03c02474c857bb8e5930bfc54d4dffe",
-        "module.json": "69c94c8754f29a731388f0deb7d6e09a358f14bb7a16b7ba184d244fa67bade1",
-    },
-    "defs": {
-        "S_CREST_MESSAGE": 2,
-        "S_DUNGEON_EVENT_MESSAGE": 2,
-        "S_LOGIN": 14,
-        "S_START_COOLTIME_SKILL": 3
-    }
+	"files": {
+		"config.json": "68a9c3889565b947b61660045593abe4fa6552455821a1e1d0778a4948f56a65",
+		"index.js": "6f9dbc284a28c042a62b724e79185f91c03c02474c857bb8e5930bfc54d4dffe",
+		"module.json": "69c94c8754f29a731388f0deb7d6e09a358f14bb7a16b7ba184d244fa67bade1"
+	},
+	"defs": {
+		"S_CREST_MESSAGE": 2,
+		"S_DUNGEON_EVENT_MESSAGE": 2,
+		"S_LOGIN": 14,
+		"S_START_COOLTIME_SKILL": 3
+	}
 }
